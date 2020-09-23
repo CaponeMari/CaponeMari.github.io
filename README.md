@@ -5,4 +5,4 @@ Hi my name is Mari Capone and I am from Westwood, MA, a small town outside of Bo
 
 I have never used GitHub or done any coding but I am excited to learn! This site seems like a very useful tool for data journalists to view each others projects and expand on their data. I was introduced to GitHub by my first year seminar: Introduction to Data Journalism.
 
-I don't have a personal website, but here is a link to my facebook account that I created over the summer for Lehigh housing purposes. [Facebook(https://www.facebook.com/mari.capone.94)
+I don't have a personal website, but here is a link to my facebook account that I created over the summer for Lehigh housing purposes. [Facebook](https://www.facebook.com/mari.capone.94)

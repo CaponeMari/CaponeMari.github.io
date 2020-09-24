@@ -12,4 +12,4 @@ I don't have a personal website, but here is a link to my facebook account that 
 ## **Lehigh Student Enrollment Infographic**
 This is the Fall 2019 student enrollment statistics between colleges at Lehigh university. The information is provided by the Office of Instiutional Research & Strategic Analytics. The data shows that the College of Arts & Sciences has the highest percentage of enrollment, which could be do to the amount of undecided first year majors. More information can be found here: [Lehigh University Fall Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-![Enrollment image](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Enrollment.png)
+![Enrollment image](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Enrollment.png?raw=true)

@@ -7,4 +7,4 @@ I have never used GitHub or done any coding but I am excited to learn! This site
 
 I don't have a personal website, but here is a link to my facebook account that I created over the summer for Lehigh housing purposes. [Facebook](https://www.facebook.com/mari.capone.94)
 
-![Lehigh image](https___specials-images.forbesimg.com_imageserve_559c3865e4b05c2c3431bb4f_0x0.jpg)  
+<img src="https___specials-images.forbesimg.com_imageserve_559c3865e4b05c2c3431bb4f_0x0.jpg" />

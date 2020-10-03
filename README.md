@@ -30,5 +30,5 @@ The key findings of this particular data set include how Bethlehem's overall cri
 
 Additional sources used for research:
 [Wikipedia](https://en.wikipedia.org/wiki/Boston_Marathon)
-[Bostona USA](https://www.bostonusa.com/events/special-events/boston-marathon/history/)
+[Boston USA](https://www.bostonusa.com/events/special-events/boston-marathon/history/)
 [Boston Athletic Association](https://www.baa.org/races/boston-marathon)

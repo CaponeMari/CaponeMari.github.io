@@ -24,3 +24,11 @@ The key findings of this particular data set include how Bethlehem's overall cri
 
 ## **Lehigh Lafayette Rivalry Timeline**
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=191skti4Y8xaJBXbbRfPWEyVU-8n4rgxeB-1G32a0Q48&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## **Boston Marathon Timeline**
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ZZMN6O4gp0UQyxLAz-KIu-NLateC7CP012bYyCQMCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+Additional sources used for research:
+[Wikipedia]https://en.wikipedia.org/wiki/Boston_Marathon
+[Bostona USA]https://www.bostonusa.com/events/special-events/boston-marathon/history/
+[Boston Athletic Association]https://www.baa.org/races/boston-marathon

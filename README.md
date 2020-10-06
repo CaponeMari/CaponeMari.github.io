@@ -3,7 +3,7 @@
 ## **Introduction**
 Hi my name is Mari Capone and I am from Westwood, MA, a small town outside of Boston. I am 19 years old and am a freshman in the College of Arts & Sciences at Lehigh University. My major is currently undecided, but I'm interested in studying psychology and journalism. Before Lehigh, I went to Noble and Greenough School in Dedham, MA.
 
-I have never used GitHub or done any coding but I am excited to learn! This site seems like a very useful tool for data journalists to view each others projects and expand on their data. I was introduced to GitHub by my first year seminar: Introduction to Data Journalism. I decided to take this class because I took a journalism class in high school where I was involved with my school's newspaper. I really enjoyed collaborating and learning about storytelling and presentation, which led me to choose this course.
+I have never used GitHub or done any coding but I am excited to learn! This site seems like a very useful tool for data journalists to view each others projects and expand on their data. I was introduced to GitHub by my first year seminar: Introduction to Data Journalism. This class interested me because I took a journalism class in high school where I was involved with my school's newspaper. I really enjoyed collaborating and learning about storytelling and presentation. Data Journalism sounded like a cool subject to combine written storytelling with statistics.
 
 ![Lehigh image](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh.jpg?raw=true)
 

@@ -1,11 +1,9 @@
 # CaponeMari.github.io
 
 ## **Introduction**
-Hi my name is Mari Capone and I am from Westwood, MA, a small town outside of Boston. I am 19 years old and am a freshman in the College of Arts & Sciences at Lehigh University. My major is currently undecided, but I'm interested in studying psychology and journalism. Before Lehigh, I went to Noble and Greenough School, an independent school in Dedham, MA.
+Hi my name is Mari Capone and I am from Westwood, MA, a small town outside of Boston. I am 19 years old and am a freshman in the College of Arts & Sciences at Lehigh University. My major is currently undecided, but I'm interested in studying psychology and journalism. Before Lehigh, I went to Noble and Greenough School in Dedham, MA.
 
-I have never used GitHub or done any coding but I am excited to learn! This site seems like a very useful tool for data journalists to view each others projects and expand on their data. I was introduced to GitHub by my first year seminar: Introduction to Data Journalism.
-
-I don't have a personal website, but here is a link to my facebook account that I created over the summer for Lehigh housing purposes. [Facebook](https://www.facebook.com/mari.capone.94)
+I have never used GitHub or done any coding but I am excited to learn! This site seems like a very useful tool for data journalists to view each others projects and expand on their data. I was introduced to GitHub by my first year seminar: Introduction to Data Journalism. I decided to take this class because I took a journalism class in high school where I was involved with my school's newspaper. I really enjoyed collaborating and learning about storytelling and presentation, which led me to choose this course.
 
 ![Lehigh image](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh.jpg?raw=true)
 
@@ -18,7 +16,7 @@ This is the Fall 2019 student enrollment statistics between colleges at Lehigh u
 
 ![Infographic](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/download%20(1).png?raw=true)
 
-I was looking to compare crime rates between Bethlehem, the state of Pennsylvania, and the country as a whole. The data set is a 2018 review of Bethlehem, PA crime found on AreaVibes, a website that evaluates the livability of different cities and towns. This data was released by the FBI in September of 2019, and maintained by AreaVibes as the most recent data regarding crime rates in Bethlehem. The page also included a crime map, different factors of data evaluating the safety of Bethlehem, and more visualizations and comparisons to nearby cities in PA. More information can be found here: [AreaVibes Bethlehem, PA Crime](https://www.areavibes.com/bethlehem-pa/crime/)
+This data compares crime rates between Bethlehem, the state of Pennsylvania, and the country as a whole. The data set is a 2018 review of Bethlehem, PA crime found on AreaVibes, a website that evaluates the livability of different cities and towns. This data was released by the FBI in September of 2019, and maintained by AreaVibes as the most recent data regarding crime rates in Bethlehem. The page also included a crime map, different factors of data evaluating the safety of Bethlehem, and more visualizations and comparisons to nearby cities in PA. More information can be found here: [AreaVibes Bethlehem, PA Crime](https://www.areavibes.com/bethlehem-pa/crime/)
 
 The key findings of this particular data set include how Bethlehem's overall crime rate is almost 1/4 below the national average. Additionally, Bethlehem's violent crime rate is over 1/4 below the national average. Compared to the US, Bethlehem's crime rates are not at all exceptional as none are above the national scale. However, types of crime including rape, burglary, theft, and property crimes were higher in Bethlehem than the state of Pennsylvania. Most notably, Bethlehem has a higher number of total crimes per 100k people than Pennsylvania as a state. In terms of Pennsylvania, Bethlehem has some above average crime rates, making the city seem more dangerous than alternative locations in PA. This is especially noticeable on the infographic because Pennsylvania has lower crime rates than the US in all but one category. Pennsylvania can be concluded safer in total crime ratings than the city of Bethlehem. Overall, the data implies that although Bethlehem may not be the safest city in PA, its crime rating is not significant on a nationwide scale. 
 

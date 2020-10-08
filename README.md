@@ -30,3 +30,6 @@ Additional sources used for research:
 [Wikipedia](https://en.wikipedia.org/wiki/Boston_Marathon)
 [Boston USA](https://www.bostonusa.com/events/special-events/boston-marathon/history/)
 [Boston Athletic Association](https://www.baa.org/races/boston-marathon)
+
+## **Lehigh Student Enrollment ChartBuilder**
+![Enrollment chart](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh_University_2019_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)

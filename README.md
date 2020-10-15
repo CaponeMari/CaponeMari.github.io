@@ -41,3 +41,6 @@ The chart provides a breakdown of COVID-19 cases among the population of Pennsyl
 
 ## **Lehigh Student Enrollment Past 5 years**
 ![Enrollment Time-series chart](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh_University_Percentage_of_Undergraduate_Enrollment_in_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+## **Scatterplot Chartbuilder practice**
+Scatterplot data by World Bank from [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)
+![Scatterplot test](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Self-Reported_Life_Satisfaction_vs._GDP_Per_Capita_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)

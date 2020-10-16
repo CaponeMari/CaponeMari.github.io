@@ -25,7 +25,7 @@ This timeline displays key events throughout the Lehigh-Lafayette rivalry. The f
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=191skti4Y8xaJBXbbRfPWEyVU-8n4rgxeB-1G32a0Q48&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## **Boston Marathon Timeline**
-This timeline displays key events regarding the Boston Marathon. I wanted to create this visualization of this topic because I trained for the Boston Marathon this past year. Unfortunately, due the cancellation of COVID-19, I did not end up running it. Still, I raised a lot of money for my charity team, and plan to run it at some point in the future. 
+This timeline displays key events regarding the Boston Marathon. I wanted to create this visualization of this topic because I trained for the Boston Marathon this past year. Unfortunately, due the cancellation because of COVID-19, I did not end up running it. Still, I raised a lot of money for my charity team, and plan to run it at some point in the future. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ZZMN6O4gp0UQyxLAz-KIu-NLateC7CP012bYyCQMCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Additional sources used for research:

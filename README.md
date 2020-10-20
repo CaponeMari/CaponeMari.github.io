@@ -34,6 +34,7 @@ Additional sources used for research:
 [Boston Athletic Association](https://www.baa.org/races/boston-marathon)
 
 ## **Lehigh Student Enrollment ChartBuilder**
+This chart displays Lehigh University's Undeergraduate Enrollment by college in 2019. The three major colleges: Arts & Sciences, Engineering, and Business have the highest enrollment, accumulating almost 90% of Lehigh's total enrollment. 
 ![Enrollment chart](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh_University_2019_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 ## **Pennsylvania COVID-19 by Age Group**
@@ -42,7 +43,8 @@ Additional sources used for research:
 The chart provides a breakdown of COVID-19 cases among the population of Pennsylvania. The data is from September 15th, 2020, and indicates each age group's percent of the population, along with their COVID-19 cases, and COVID-19 deaths. It makes sense that the highest percentage of cases aligns with age groups that occupy the highest percent of the population. The data also confirms the main COVID-19 trend of having the most fatal impact on the elderly. One thing I found slightly surprising was how little the virus seems to be affecting newborns, toddlers, and teens, who make up a standard percentage of the population in PA but report the smallest number of cases and death rates. For more information, please visit [Lancaster Online](https://lancasteronline.com/news/local/in-pennsylvania-people-in-their-60s-are-the-only-age-group-affected-proportionately-by-covid/article_a57b706c-f764-11ea-b346-d7855f8f0609.html). 
 
 ## **Lehigh Student Enrollment Past 5 years**
+This chart shows the percentage of Lehigh student enrollment in the three major colleges over the past five years. The percentages of enrollment in each college change very little over the past five years, especially in the college of business. The greatest change is a decline of almost 10% in the engineering college. It is also interesting to note how the engineering college was the most popular five years ago, but has since been surpassed by the college of Arts & Sciences.
 ![Enrollment Time-series chart](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh_University_Percentage_of_Undergraduate_Enrollment_in_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 ## **Scatterplot Chartbuilder practice**
-Scatterplot data by World Bank from [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction)
+ This scatterplot data is by World Bank from [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction). The data provides an association between self-reported life satisfaction and GDP per capita in 2017. The general trend of the plot indicates that greater GDPs lead to greater life satisfaction. However, the highest data point of life satisfaction is not correlated to the greatest GDP, confirming that life satisfaction does not depend on GDP. 
 ![Scatterplot test](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Self-Reported_Life_Satisfaction_vs._GDP_Per_Capita_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)

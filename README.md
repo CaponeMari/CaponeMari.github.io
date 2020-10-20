@@ -34,7 +34,7 @@ Additional sources used for research:
 [Boston Athletic Association](https://www.baa.org/races/boston-marathon)
 
 ## **Lehigh Student Enrollment ChartBuilder**
-This chart displays Lehigh University's Undeergraduate Enrollment by college in 2019. The three major colleges: Arts & Sciences, Engineering, and Business have the highest enrollment, accumulating almost 90% of Lehigh's total enrollment. 
+This chart displays Lehigh University's Undergraduate Enrollment by college in 2019. The three major colleges: Arts & Sciences, Engineering, and Business have the highest enrollment, accumulating almost 90% of Lehigh's total enrollment. 
 ![Enrollment chart](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh_University_2019_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 ## **Pennsylvania COVID-19 by Age Group**

@@ -17,6 +17,9 @@ The key findings of this particular data set include how Bethlehem's overall cri
 
 ## **Boston Marathon Timeline**
 This timeline displays key events regarding the Boston Marathon. I wanted to create this visualization of this topic because I trained for the Boston Marathon this past year. Unfortunately, due the cancellation because of COVID-19, I did not end up running it. Still, I raised a lot of money for my charity team, and plan to run it at some point in the future. 
+
+The Boston Marathon is the World's Oldest Annual Marathon and upholds many of its original traditions. It has consistantly been held on Patriot's Day, accompanied by a Red Sox game, and always attracting many people to watch and support the event. As the timeline shows, the entry of women into the marathon was provoked by one woman, Roberta Gibb, who ran it illegally before women were allowed to participate. It is very impressive to see how far the marathon has come to include everyone, especially becoming the first marathon to include a wheelchair division. The horrific event of the Boston Bombing targetted the marathon in 2013, causing so much fear and pain, but leaving the city to bounce back even stronger. Even with the challenges of COVID-19, the marathon still prioritized connecting everyone virtually. Marathon Monday in Boston has evolved to symbolize so much more than a marathon, becoming a destination of community and love for our city.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ZZMN6O4gp0UQyxLAz-KIu-NLateC7CP012bYyCQMCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Additional sources used for research:

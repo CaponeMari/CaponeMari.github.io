@@ -22,7 +22,7 @@ The Boston Marathon is the World's Oldest Annual Marathon and upholds many of it
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ZZMN6O4gp0UQyxLAz-KIu-NLateC7CP012bYyCQMCY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-Additional sources used for research:
+Additional sources used for research: 
 [Wikipedia](https://en.wikipedia.org/wiki/Boston_Marathon)
 [Boston USA](https://www.bostonusa.com/events/special-events/boston-marathon/history/)
 [Boston Athletic Association](https://www.baa.org/races/boston-marathon)

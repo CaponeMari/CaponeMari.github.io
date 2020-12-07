@@ -8,9 +8,8 @@ I had never used GitHub or done any coding before this semester. I was introduce
 ![Lehigh image](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Lehigh.jpg?raw=true)
 
 
-
 ## **My Pixton Introduction Comic**
-Here is a comic I made using [Pixton](https://app.pixton.com/#/), with a very brief introduction to who I am.
+Here is a comic I made using [Pixton](https://app.pixton.com/#/) with a very brief introduction to who I am.
 ![Intro Comic](https://github.com/CaponeMari/CaponeMari.github.io/blob/master/Screen%20Shot%202020-11-19%20at%203.12.23%20PM.png?raw=true)
 
 

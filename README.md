@@ -5,4 +5,4 @@ My name is Mari Capone and I am junior at Lehigh University studying journalism 
 
 I will be using this for my data journalism class.
 
-[LinkedIn] (https://www.linkedin.com/in/mari-capone-6232b1207/)
+[LinkedIn](https://www.linkedin.com/in/mari-capone-6232b1207/)

@@ -14,3 +14,6 @@ This is an infographic created using Canva that shows the Lehigh student enrollm
 ## Most Used Social Media Platforms Infographic
 This is an infographic created using Canva that shows the most used social media platforms in 2022. This data is from the [Search Engine Journal](https://www.searchenginejournal.com/social-media/biggest-social-media-sites/#close). It includes monthly active users (MAUs) and revenue for each application. The author is Shelley Walsh, and the article also includes a breakdown of each platform with more information. Facebook is the most popular, with the highest amount of MAUs and greatest revenue by over $50 billion. It is interesting to note that WhatsApp and Instagram have the same amount of MAUs, yet Instagram's revenue is almost $20 billion more.
 ![Most Used Social Media Platforms 2022](https://github.com/CaponeMari/DataVisualization/blob/main/Most%20Used%20Social%20Media%20Platforms%202022.png?raw=true)
+
+##Le-Lef Football Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RyGXQ4sYBD3KNeOb5-n64cV4-vpe6tOMg-YLXhWTqFU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>

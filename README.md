@@ -19,6 +19,6 @@ This is an infographic created using Canva that shows the most used social media
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RyGXQ4sYBD3KNeOb5-n64cV4-vpe6tOMg-YLXhWTqFU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Evolution of Cameras Timeline
-I created a timeline using [TimlineJS](https://timeline.knightlab.com/index.html#make) about the evolution of the camera. I used information from [Inventionland](https://inventionland.com/blog/the-evolution-of-cameras/) and [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_camera). The timline does not include data after the first digital camera was invented.
+I created a timeline using [TimlineJS](https://timeline.knightlab.com/index.html#make) about the evolution of the camera. I used information from [Inventionland](https://inventionland.com/blog/the-evolution-of-cameras/) and [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_camera). The timeline does not include data after the first digital camera was invented.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cE3t6fzYesDOn_ezanpRmdtF-VnkQnps5t57gDaq6fs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>

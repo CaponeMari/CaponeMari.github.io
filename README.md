@@ -21,3 +21,7 @@ This is an infographic created using Canva that shows the most used social media
 I created a timeline using [TimlineJS](https://timeline.knightlab.com/index.html#make) about the evolution of the camera. I used information from [Inventionland](https://inventionland.com/blog/the-evolution-of-cameras/) and [Wikipedia](https://en.wikipedia.org/wiki/History_of_the_camera). The timeline does not include data after the first digital camera was invented.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cE3t6fzYesDOn_ezanpRmdtF-VnkQnps5t57gDaq6fs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Chart in class 10/6
+I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/). The chart shows Lehigh University's percent of undergraduate student enrollment in each college as of Fall 2021. The data is from the [Office of Institutional Reseach & Strategy Analytics](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf). The college of Arts & Sciences has the most enrollement, followed by Engineering/Appl. Sci and Business.
+![Percent of Undergraduate Enrollment per College](https://github.com/CaponeMari/DataVisualization/blob/main/Percent_of_Undergraduate_Enrollment_per_College_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)

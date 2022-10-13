@@ -33,3 +33,7 @@ I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/
 ## Time-Series Chart
 I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/) with data from the  [Office of Institutional Reseach & Strategy Analytics](https://oirsa.lehigh.edu/university-profile). This is a time-series chart that shows the changes in percent of undergraduate enrollment per college year. Enrollment in College of Arts & Sciences is gradually increasing, while enrollment for the College of Engineering decreases each year. Enrollment in the College of Business remains similar each year.
 ![Time-Series Chart](https://github.com/CaponeMari/DataVisualization/blob/main/Lehigh_Undergraduate_Enrollment_per_College_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+## Scatterplot Chart
+I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/) using data from [this data set] (https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit#gid=0). The chart compares life satisfation to GDP per capita in 2017. 
+![Scatterplot](https://github.com/CaponeMari/DataVisualization/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder%20(1).png?raw=true)

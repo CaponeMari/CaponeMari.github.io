@@ -37,3 +37,7 @@ I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/
 ## Scatterplot Chart
 I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/) using data from [this data set](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit#gid=0). The chart compares life satisfation to GDP per capita in 2017. 
 ![Scatterplot](https://github.com/CaponeMari/DataVisualization/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder%20(1).png?raw=true)
+
+## Scatterplote Assignment 10/13
+
+![Scatterplot](https://github.com/CaponeMari/DataVisualization/blob/main/US_Unemployment_Rate_US_Unemployment_Rate_chartbuilder.png?raw=true)

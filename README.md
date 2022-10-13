@@ -1,5 +1,5 @@
 
-## Self-Introduction
+## Self Introduction
 My name is Mari Capone and I am junior at Lehigh University studying journalism and marketing. I am from outside of Boston, MA, and recently moved to live full-time on Cape Cod. I have a 23-year-old brother who graduated from Lehigh last year and also live with my parents and dog named Cooper. 
 
 I will be using this for my data journalism class.
@@ -29,3 +29,7 @@ I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/
 ## Lehigh University Applicants vs. Enrolled Students Chart
 I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/). The chart shows the number of applicants and the number of undergraduate student enrollment over the past 5 years at Lehigh University. I received this data from the [Office of Institutional Reseach & Strategy Analytics](https://oirsa.lehigh.edu/university-profile) and [The Brown & White](https://thebrownandwhite.com/2022/04/10/acceptance-rate-decreases-for-class-of-2026/). The chart shows that Lehigh is slowly increasing undergraduate enrollment. After a drop in applicants during the pandemic year, 2020, the number of Lehigh applicants is increasing and approaching the previously higher numbers of applications from 2018 and 2019.
 ![Lehigh University Applicants vs. Enrolled Students Chart](https://github.com/CaponeMari/DataVisualization/blob/main/Lehigh_University_Applicants_vs._Enrollment_over_the_past_5_years__Applicants_Undergraduate_Student_Enrollment_chartbuilder.png?raw=true)
+
+## Time-Series Chart
+I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/) with data from the  [Office of Institutional Reseach & Strategy Analytics](https://oirsa.lehigh.edu/university-profile). This is a time-series chart that shows the changes in percent of undergraduate enrollment per college year. Enrollment in College of Arts & Sciences is gradually increasing, while enrollment for the College of Engineering decreases each year. Enrollment in the College of Business remains similar each year.
+![Time-Series Chart](https://github.com/CaponeMari/DataVisualization/blob/main/Lehigh_Undergraduate_Enrollment_per_College_Year_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)

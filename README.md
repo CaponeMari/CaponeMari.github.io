@@ -41,3 +41,7 @@ I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/
 ## Scatterplote Assignment 10/13
 I created this chart using [Chartbuilder](https://quartz.github.io/Chartbuilder/) and information from [Macrotrends](https://www.macrotrends.net/countries/USA/united-states/unemployment-rate#:~:text=U.S.%20unemployment%20rate%20for%202021,a%200.46%25%20decline%20from%202017.). The chart shows the changes in the US unemployment rate over the past 10 years. It's interesting to note how the unemployment rate is decreasing until 2020, and then spikes during the year of the COVID-19 pandemic.
 ![Scatterplot](https://github.com/CaponeMari/DataVisualization/blob/main/US_Unemployment_Rate_US_Unemployment_Rate_chartbuilder.png?raw=true)
+
+## Google Maps Practice
+I created this map using [Google My Maps](https://www.google.com/maps/d/) and data from [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/). This map shows the Top 20 Cycling Cities in the world as of 2019. The top cycling city is Copenhagen, Denmark, followed by Amterdam and Utrecht, Netherlands.
+<iframe src="https://www.google.com/maps/d/embed?mid=1MioNL-KUhzSeHQqkQJWzNzXHcFy5BSY&ehbc=2E312F" width="640" height="480"></iframe>

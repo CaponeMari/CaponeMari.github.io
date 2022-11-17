@@ -4,6 +4,10 @@ My name is Mari Capone and I am junior at Lehigh University studying journalism 
 
 I will be using [GitHub](https://github.com/) for my data journalism class this semester.
 
+## Comic
+I made this comic using [Pixton](https://www.pixton.com/).
+![image](https://user-images.githubusercontent.com/71452394/202562428-78bb72ab-1ecb-4b4c-902e-1f95c3af512e.png)
+
 ## Undergraduate Enrollment Infographic
 This is an infographic created using [Canva](https://www.canva.com/) with data from the [Office of Institutional Research & Strategy Analysis](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf). The infographic that shows the Lehigh University's student enrollment data as of Fall 2019. The infographic shows that the college of Arts & Sciences had the highest enrollment, followed by Engineering and Appl. Sci and Business. The total student enrollement was just over 5,000 students, which has increased by almost 2,000 students since 2019.
 

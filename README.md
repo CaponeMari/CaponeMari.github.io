@@ -29,7 +29,7 @@ This is an infographic created using [Canva](https://www.canva.com/) with data f
 ![Most Used Social Media Platforms 2022](https://github.com/CaponeMari/DataVisualization/blob/main/Most%20Used%20Social%20Media%20Platforms%202022.png?raw=true)
 
 ## Le-Lef Football Timeline
-I created this timeline using [TimlineJS](https://timeline.knightlab.com/index.html#make) with data from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh). The timeline depicts milestones from the Lehigh-Lafayette football rivalry, which is the most played football rivalry in America. The rivalry includes a streak of 124 uninterrupted games, only broken by the COVID-19 pandemic in 2020.
+I created this timeline using [TimlineJS](https://timeline.knightlab.com/index.html#make) with data from [Wikipedia](https://en.wikipedia.org/wiki/The_Rivalry_(Lafayette%E2%80%93Lehigh)). The timeline depicts milestones from the Lehigh-Lafayette football rivalry, which is the most played football rivalry in America. The rivalry includes a streak of 124 uninterrupted games, only broken by the COVID-19 pandemic in 2020.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RyGXQ4sYBD3KNeOb5-n64cV4-vpe6tOMg-YLXhWTqFU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
